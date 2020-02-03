@@ -1,6 +1,6 @@
 # jellyfish_hunters
 <p><i>Jellyfish Hunters</i> is a simple 2D game with the goal of collecting/eating jellyfishes as much as possible,
-without being caught into the garbage, which foolish people threw into the sea.</p>
+without being caught in the garbage, which foolish people threw into the sea.</p>
 <h2>Game screens</h2>
 <p>Menu:</p>
 <img src="https://raw.githubusercontent.com/wnbsmart/jellyfish_hunters/master/Screenshots/Menu.png"
